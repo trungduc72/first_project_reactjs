@@ -1,0 +1,16 @@
+{
+    "content": {
+        "header": "Data Table User",
+        "create": "Create User",
+        "search": "Search",
+        "code": "Code",
+        "name": "Name",
+        "project_complete": "Project Complete",
+        "address": "Address",
+        "date": "Date",
+        "phone": "Phone",
+        "email": "Email",
+        "school": "School",
+        "options": "Options"
+    }
+}

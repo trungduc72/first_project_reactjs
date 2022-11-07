@@ -1,0 +1,16 @@
+{
+    "content": {
+        "header": "Dữ liệu người dùng",
+        "create": "Tạo mới",
+        "search": "Tìm kiếm",
+        "code": "STT",
+        "name": "Tên",
+        "project_complete": "Dự án",
+        "address": "Địa chỉ",
+        "date": "Ngày sinh",
+        "phone": "SDT",
+        "email": "Email",
+        "school": "Trường",
+        "options": "Lựa chọn"
+    }
+}
